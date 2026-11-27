@@ -1,0 +1,3 @@
+<resources>
+    <string name="acc_desc">Cho phép Đảo Động vẽ đảo ở đỉnh màn hình và hiện âm lịch cạnh ngày trong bảng thông báo. App chỉ đọc chữ của giao diện hệ thống để tìm vị trí dòng ngày, không lưu và không gửi dữ liệu đi đâu.</string>
+</resources>
